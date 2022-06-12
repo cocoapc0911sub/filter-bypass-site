@@ -48,7 +48,7 @@ function clicks(){
 
 function cc(){
   console.log(element.value);
-　window.open('https://math.005net.com/youten.php')
+　window.open('https://web.math-aquarium.jp/')
 
 }
 
